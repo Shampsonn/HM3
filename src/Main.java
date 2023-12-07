@@ -5,5 +5,5 @@ public class Main {
         bonus = ticket / 20;
         int miles = bonus;
         System.out.println(miles);
-        }
     }
+}
